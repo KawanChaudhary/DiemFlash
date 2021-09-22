@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/diemflash/static/css/main.68282ec8.chunk.css",
+    "main.js": "/diemflash/static/js/main.1e3c4244.chunk.js",
+    "main.js.map": "/diemflash/static/js/main.1e3c4244.chunk.js.map",
+    "runtime-main.js": "/diemflash/static/js/runtime-main.ab9bd3ee.js",
+    "runtime-main.js.map": "/diemflash/static/js/runtime-main.ab9bd3ee.js.map",
+    "static/js/2.21aa5a04.chunk.js": "/diemflash/static/js/2.21aa5a04.chunk.js",
+    "static/js/2.21aa5a04.chunk.js.map": "/diemflash/static/js/2.21aa5a04.chunk.js.map",
+    "static/js/3.67c9ced5.chunk.js": "/diemflash/static/js/3.67c9ced5.chunk.js",
+    "static/js/3.67c9ced5.chunk.js.map": "/diemflash/static/js/3.67c9ced5.chunk.js.map",
+    "index.html": "/diemflash/index.html",
+    "static/css/main.68282ec8.chunk.css.map": "/diemflash/static/css/main.68282ec8.chunk.css.map",
+    "static/js/2.21aa5a04.chunk.js.LICENSE.txt": "/diemflash/static/js/2.21aa5a04.chunk.js.LICENSE.txt",
+    "static/media/Snake.b2a8fa3d.gif": "/diemflash/static/media/Snake.b2a8fa3d.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab9bd3ee.js",
+    "static/js/2.21aa5a04.chunk.js",
+    "static/css/main.68282ec8.chunk.css",
+    "static/js/main.1e3c4244.chunk.js"
+  ]
+}
